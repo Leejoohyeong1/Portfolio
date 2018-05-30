@@ -59,7 +59,7 @@ FastCampus 12주 교육후 3 주 동안 수행한 프로젝트입니다.
 
 
 ### [connectedDiary - 교환일기 어플리케이션 youtube Link]((https://www.youtube.com/watch?v=s3zeznEpJ-E&feature=youtu.be))
-### [팀 프로젝트 git Link](https://github.com/joohopark/FC_Project)
+### [팀 프로젝트 git Link]()
 
 
 [![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
