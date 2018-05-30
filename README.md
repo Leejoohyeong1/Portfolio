@@ -30,7 +30,7 @@
 
 ### Fastcampus iOS shcool 3기 
 
-- 교육기관: [페스트 캡퍼스](http://www.fastcampus.co.kr/dev_school_ids/)v
+- 교육기관: [페스트 캡퍼스](http://www.fastcampus.co.kr/dev_school_ids/)
 -  2018.01 ~ 2018.04
 -  [커러큘럼](http://cdn.www.fastcampus.co.kr/wp-content/uploads/2018/01/iOS-7%EA%B8%B0-%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC.pdf?_ga=2.132784650.500584048.1527654340-1987110471.1522894089)
 - 교육내용   
