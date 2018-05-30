@@ -63,7 +63,3 @@ FastCampus 12주 교육후 3 주 동안 수행한 프로젝트입니다.
 
 
 [![Video Label](http://img.youtube.com/vi/s3zeznEpJ-E/0.jpg)](https://youtu.be/s3zeznEpJ-E)
-
-
-
-띵옹 ??
