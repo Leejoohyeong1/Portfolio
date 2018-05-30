@@ -51,10 +51,6 @@ FastCampus 12주 교육후 3 주 동안 수행한 프로젝트입니다.
 - `Swift 4`, `Xcode 9`,`Node.js`
 - `Delegate Pattern`, `Notifcation`,`Alamofire`
 
-### 사용한 기술
-- `Swift 3`, `Xcode 8`, `Node.js`
-- `Photos`, `Localization`, `Delegate pattern`, `Notification`
-
 ### 수행 역할
 - `Auto Layout`과 `Interface Builder`를 통한 UI Login 
 - `Node.js`로 `BackEnd`구현
@@ -63,3 +59,11 @@ FastCampus 12주 교육후 3 주 동안 수행한 프로젝트입니다.
 
 
 ### [connectedDiary - 교환일기 어플리케이션 youtube Link]((https://www.youtube.com/watch?v=s3zeznEpJ-E&feature=youtu.be))
+### [팀 프로젝트 git Link](https://github.com/joohopark/FC_Project)
+
+
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
+
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+
+[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
